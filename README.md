@@ -38,10 +38,12 @@
 
 >:mailbox: LinkedIn Direct Message:  
 <sup>Mensagem Direta no LinkeIn p/ Hugo Bler</sup>  
->[![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Bler-blue?style=flat-square&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/messaging/thread/new/)) 
+><a href="https://www.linkedin.com/messaging/thread/new/">
+  <img src="https://img.shields.io/badge/Hugo%20Bler-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 >:email: Email:  
-> [![Linkedin Badge](https://img.shields.io/badge/-Hugo%20Bler-red?style=flat-square&logo=Gmail&logoColor=white)]([your-linkedin-url](mailto:mail.hbler@gmail.com))
+><a href="mailto:mail.hbler@gmail.com">
+  <img src="https://img.shields.io/badge/Hugo%20Bler-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 <br />
 
