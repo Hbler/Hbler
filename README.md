@@ -71,7 +71,7 @@
 ---
 
 ### :fire: My Stats :
-<sup>Meus Estatus</sup>
+<sup>Meus Status</sup>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hbler&theme=monokai&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
