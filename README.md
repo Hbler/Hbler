@@ -73,6 +73,8 @@
 ### :fire: My Stats :
 <sup>Meus Status</sup>
 
+<img src="https://www.codewars.com/users/Hbler/badges/large" alt=""/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hbler&theme=monokai&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 <div>
