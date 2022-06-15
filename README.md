@@ -75,10 +75,14 @@
 
 <img src="https://www.codewars.com/users/Hbler/badges/large" alt=""/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hbler&theme=monokai&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-<div>
 <a href="https://github.com/Hbler">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hbler&show_icons=true&theme=monokai&custom_title=My%20Github%20Stats&bg_color=0d1117&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hbler&layout=compact&theme=monokai&bg_color=0d1117&hide_border=true"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hbler&layout=compact&theme=monokai&bg_color=0d1117&hide_border=true"/></a>
+<br />
+<a href="https://github.com/Hbler">
+<img src="https://github-readme-stats.vercel.app/api?username=Hbler&show_icons=true&theme=monokai&custom_title=My%20Github%20Stats&bg_color=0d1117&hide_border=true"/></a>
+
+<a href="https://github.com/Hbler">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hbler&theme=monokai&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+  
+</a>
