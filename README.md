@@ -15,8 +15,8 @@
 ### Basic Info:
 <sup>Informações básicas:</sup>
 
->:watch: I'm 29 years old  
-><sup>Tenho 29 anos</sup>
+>:watch: I'm 30 years old  
+><sup>Tenho 30 anos</sup>
   
 >:round_pushpin: I live in Guarulhos / São Paulo - Brazil  
 ><sup>Moro em Guarulhos/SP</sup>
