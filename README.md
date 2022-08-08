@@ -30,8 +30,8 @@
 >:dancer: In my free time I study some more, workout and dance  
 <sup>No meu tempo livre eu estudo um pouco mais, treino e danço </sup>
 
->:page_facing_up: [Download my resumé](https://hbler.com/wp-content/uploads/2022/07/Resumé-Hugo_Bler.pdf)  
-<sup><a href="https://hbler.com/wp-content/uploads/2022/07/CV-Hugo_Bler.pdf">Baixe meu currículo</a></sup>
+>:page_facing_up: [Download my resumé](https://github.com/Hbler/portfolio/blob/main/public/assets/resume/resume_hugo-bler_en.pdf)  
+<sup><a href="https://github.com/Hbler/portfolio/blob/main/public/assets/resume/resume_hugo-bler_pt.pdf">Baixe meu currículo</a></sup>
 
 <br />
 
