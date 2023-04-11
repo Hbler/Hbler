@@ -21,8 +21,8 @@
 >:round_pushpin: I live in Guarulhos / São Paulo - Brazil  
 ><sup>Moro em Guarulhos/SP</sup>
 
->:computer: Junior Developer at [Banco Ourinvest](https://www.linkedin.com/company/banco-ourinvest/)  
-><sup>Desenvolvedor júnior no [Banco Ourinvest](https://www.linkedin.com/company/banco-ourinvest/)</sup>
+>:computer: Developer at [Banco Ourinvest](https://www.linkedin.com/company/banco-ourinvest/)  
+><sup>Desenvolvedor no [Banco Ourinvest](https://www.linkedin.com/company/banco-ourinvest/)</sup>
 
 >:dancer: In my free time I study some more, workout and dance.  
 <sup>No meu tempo livre eu estudo um pouco mais, treino e danço </sup>
