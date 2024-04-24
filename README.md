@@ -15,14 +15,14 @@
 ### Basic Info:
 <sup>Informações básicas:</sup>
 
->:watch: I'm 30 years old  
-><sup>Tenho 30 anos</sup>
+>:watch: I'm 31 years old  
+><sup>Tenho 31 anos</sup>
   
 >:round_pushpin: I live in Guarulhos / São Paulo - Brazil  
 ><sup>Moro em Guarulhos/SP</sup>
 
->:computer: Developer at [Banco Ourinvest](https://www.linkedin.com/company/banco-ourinvest/)  
-><sup>Desenvolvedor no [Banco Ourinvest](https://www.linkedin.com/company/banco-ourinvest/)</sup>
+>:computer: Developer at [Banco Ouribank](https://www.linkedin.com/company/ouribank/)  
+><sup>Desenvolvedor no [Banco Ouribank](https://www.linkedin.com/company/ouribank/)</sup>
 
 >:dancer: In my free time I study some more, workout and dance.  
 <sup>No meu tempo livre eu estudo um pouco mais, treino e danço </sup>
